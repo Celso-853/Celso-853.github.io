@@ -1,0 +1,230 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0110)https://www.dges.gov.pt/online/SenhaAcesso/ReciboPedido.aspx?email=celsovilanova853%40gmail.com&code=919552848 -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>
+	Recibo do Pedido de Senha
+</title><link href="./Recibo do Pedido de Senha_files/Recibo.css" rel="stylesheet" type="text/css"><link href="./Recibo do Pedido de Senha_files/recibo-t.css" type="text/css" rel="stylesheet"><link type="text/css" rel="stylesheet" href="./Recibo do Pedido de Senha_files/css2"></head>
+<body>
+    <form method="post" action="https://www.dges.gov.pt/online/SenhaAcesso/ReciboPedido.aspx?email=celsovilanova853%40gmail.com&amp;code=919552848" id="formAccountRequestReceipt">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="DVdE9olhrCVFgmrmITo20hVJ39HbD4ijWrToo4o/cemArko/VTuxjXRZnNtU2eZ2qOQos2JbWxG218nE39+u23eMn+46KgzmFjvt1NZpCs1uIHof4gv2c+cvwXeUG2XtW2NDjbM5ADE6DH4PQAWtVEmaD2Zp5lsYZJ5mYqN7G5IVwgk2luA/uFcCH6zQpWHKoCf7imXy46bevkY+xivzmn9GnAbvjbBSZlmKemVkhpj6wsRtmiU0WTvGSEZByVojy5UEhCrwQTZJSTaC73ISBD8YUxW/YneT/i31dQJnUV6fonKLEGe/QNbK3EVpJzRHuwaTVSRkDBrZfP3Q5B0rRbpQgX6hv8UAzmMsKC7VKAgmqleiPgzttaWP45pk7IsAKYeyud7iDK95LxSHbko92HPYt6a5a+zslJwdvUHjJBlNzww2fl9typVVAEyhk+An4saTMH0l6bViNMJX9PM9yVJL4ImYLAS9+T97N2KO0jxyt39wmcjJlH77LT/ol5AkvicreMfMhvq3C3KUszL7xVKYl+claZKs7Xle4rVHyqXVVbGFTZ9pwloOFuvINYfXyMearZWOlOaBlwELSDodBrL3ZNUHIN+UhlCO87j+CEbNjtdgQuaK0royzv1ZGHjSMljysb+X8mBHx/+v/l2UjryHrtN9uvCkn90tRn3v3lNwvhs+tQ1SMvKKEbour1utDtXbqGGbRPoOiGep+PtNRf6JBvsRRhdUks0EI3G9guOqOpH7kqrVc29h3pf6wUK2LvvrqTl+gFlPGXKsi2fw2i1BAZdSYzlNunGwn4c94z8=">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="B2D53F9D">
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+</div>
+    
+    
+
+    <div id="PanelReceipt" class="Receipt">
+	
+        <img id="Image1" src="./Recibo do Pedido de Senha_files/dges-logo.png" style="width:9.5cm;">
+    
+        <!-- h1 class="Title">Pedido de Atribuição de Senha para Acesso ao Sistema de Candidatura Online 2024</!-->
+        <div class="Title">
+			<div class="Header" style="height:2.3em">Recibo</div>
+			<div class="Name">Pedido de Atribuição de Senha 
+                e de Número de Identificação  
+                para Acesso ao Sistema de Candidatura Online 2024</div>
+		</div>
+
+
+        <table cellspacing="0" id="FormStudentReceipt" style="width:100%;border-collapse:collapse;">
+		<tbody><tr>
+			<td colspan="2">
+                
+                
+                
+                <div id="FormStudentReceipt_PanelConfirmed">
+				
+                    <div class="Section">
+                        <h2 class="SectionHeader">1. Identificação</h2>
+
+                        <p>
+                            <span id="FormStudentReceipt_LabelStudentName" class="Label">Nome Completo</span>&nbsp;
+                            <span class="Data">CELSO LOPES VILA NOVA</span>
+                        </p>
+
+                        <p>
+                            <span id="FormStudentReceipt_LabelStudentId" class="Label">Número de Identificação</span>&nbsp;
+                            <span class="Data">24240501 </span>
+                            
+                        </p>            
+
+                        <div class="Instructions">
+                            <p>
+                                Esta ficha comprova a receção de um pedido de atribuição de senha pelo detentor do endereço de correio
+                                eletrónico nela constante. 
+                                Confirme se os elementos de identificação acima afixados são exatamente iguais os que constam no 
+                                documento de identificação.
+                            </p>
+                        </div>
+                    </div>
+                    
+                    <div class="Section">
+                        <h2 class="SectionHeader">2. Endereço para envio da senha</h2>
+                        <p>
+                            <span class="WideLabel">Endereço de Correio eletrónico&nbsp;</span>
+                            <span class="Data">celsovilanova853@gmail.com</span>
+                        </p>
+                    </div>                                
+
+                     <div class="Section">
+
+                        <h2 class="SectionHeader">3. Local de Entrega do Pedido</h2>
+                        <p>
+                        <span class="WideLabel">Local de entrega do pedido&nbsp;</span>
+                        <span class="Data">Instituto D. João V</span>
+                        </p>
+
+                        <div class="Instructions">
+                            <p>
+                                Este recibo de pedido de senha para acesso ao sistema de candidatura online deve ser entregue no
+                                local acima indicado, para confirmação dos elementos de identificação. 
+                            </p>
+
+                            <p>
+                                A senha para efetuar o registo no sistema de candidatura online será enviada, 
+                                para o endereço indicado no ponto 2, 
+
+                                durante o mês de maio.
+                                
+                                
+								
+								
+                                
+									
+                                
+                            </p>
+                        </div>
+                    </div>
+                    
+                    <div class="Section">
+                        <h2 class="SectionHeader">4. Declaração</h2>
+                        <p>
+                            Solicito que me seja enviada, para o contacto indicado no ponto 2, a senha para 
+                            efetuar o registo no sistema de candidatura online, responsabilizando-me pela sua correta utilização.
+                        </p>
+                        <p>
+                            <span class="Label">Data do Pedido</span>
+                            <span class="Data">27-02-2024 10:06:17</span>
+                        </p>
+                        <p>
+                            <span class="Label">O Estudante:&nbsp;</span>
+                            <span class="Signature">&nbsp;</span>
+                        </p>
+                        <p>
+                            <span class="Label">Sendo menor, poder paternal/tutela:</span>
+                            <span class="Signature">&nbsp;</span>
+                        </p>
+                    </div>
+                    
+                    <div class="Section">
+                        <h2 class="SectionHeader">5. Receção do Pedido</h2>
+
+                            <p>
+                                <span class="Label">Código de Validação</span>
+                                <span class="ConfirmationKey">EE3TZ71 </span>
+                            </p>
+                            
+                            <p>
+                                <span class="Label">Conferido em:</span>
+                                <span class="Label">&nbsp;</span>
+                                <span class="DateDigit">D</span>
+                                <span class="DateDigit">D</span>&nbsp;&nbsp;
+                                <span class="DateDigit">M</span>
+                                <span class="DateDigit">M</span>&nbsp;&nbsp;
+                                <span class="DateDigitPreFilled">2</span>
+                                <span class="DateDigitPreFilled">0</span>
+                                <span class="DateDigitPreFilled">2</span>
+                                <span class="DateDigitPreFilled">4</span>
+                            </p>
+                            <br>
+                            <p>
+                                <span class="Label">O funcionário:</span>
+                                <span class="Signature">&nbsp;</span>
+                            </p>
+                        
+                    </div>
+                
+			</div>
+                
+            </td>
+		</tr>
+	</tbody></table>
+        
+</div>
+    </form>
+
+
+<span id="PING_CONTENT_DLS_POPUP" style="display: none;"></span><div style="background-color: transparent; border: none; bottom: 15px; display: block; margin: 0px; opacity: 1; padding: 0px; position: fixed; right: 15px; z-index: 2147483646;"><template shadowrootmode="closed"><style>/*!
+ * 
+ *     MCAFEE RESTRICTED CONFIDENTIAL
+ *     Copyright (c) 2024 McAfee, LLC
+ *
+ *     The source code contained or described herein and all documents related
+ *     to the source code ("Material") are owned by McAfee or its
+ *     suppliers or licensors. Title to the Material remains with McAfee
+ *     or its suppliers and licensors. The Material contains trade
+ *     secrets and proprietary and confidential information of McAfee or its
+ *     suppliers and licensors. The Material is protected by worldwide copyright
+ *     and trade secret laws and treaty provisions. No part of the Material may
+ *     be used, copied, reproduced, modified, published, uploaded, posted,
+ *     transmitted, distributed, or disclosed in any way without McAfee's prior
+ *     express written permission.
+ *
+ *     No license under any patent, copyright, trade secret or other intellectual
+ *     property right is granted to or conferred upon you by disclosure or
+ *     delivery of the Materials, either expressly, by implication, inducement,
+ *     estoppel or otherwise. Any license under such intellectual property rights
+ *     must be expressed and approved by McAfee in writing.
+ *
+ */
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Poppins:ital,wght@0,400;0,500;0,600;0,800;1,400;1,500;1,600;1,800&display=swap);
+*{border:0;box-sizing:border-box;font:inherit;font-family:"mcafeeOpenSans","Open Sans",Arial,Helvetica,sans-serif;font-size:100%;margin:0;padding:0;vertical-align:baseline;outline:none}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}html,body{background-color:#f5f6fa;font-family:"Open Sans","mcafeeOpenSans",Arial,Helvetica,sans-serif;line-height:1;height:100%;width:100%}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:"";content:none}table{border-collapse:collapse;border-spacing:0}b{font-weight:bold}img{display:block}.dls__container{align-items:center;display:flex;margin:0 auto;margin-top:50px;position:relative}.dls__popup__expanded{align-items:center;overflow:hidden;border-radius:100px;cursor:pointer;display:flex;left:0;padding:15px;position:absolute;height:95px;width:383px;background-color:#fff;transition:all .3s ease-in-out}.dls__popup__expanded .dls__icon{height:65px;width:73px}.content{margin-left:12px}.content .content__images{display:flex;align-items:center;width:250px}.content .content__images .seperator__line{margin-left:5px;margin-right:10px}.content .content__images #dls_close_icon{cursor:pointer;margin-left:auto;margin-right:0px}.content p{font-family:"Poppins",Arial,Helvetica,sans-serif;font-weight:"400";font-size:14px;line-height:20px;margin-top:8px;color:#4258ff;width:250px;cursor:pointer}.shield{overflow:hidden;box-shadow:0px 2px 4px 0px rgba(33,41,52,.12),0px -1px 2px 0px rgba(0,0,0,.08);align-items:center;border-radius:100px;bottom:0;display:flex;height:95px;justify-content:center;position:absolute;right:0;width:383px;transition:all .3s ease-in-out}.shield__circle{display:flex;justify-content:center;align-items:center;width:55px;height:55px;background-color:#c01818;transition:all .6s ease-in-out .2s;z-index:1;opacity:0}
+
+/*# sourceMappingURL=../sourceMap/chrome/css/download_scan_popup.css.map*/</style><div class="dls__container">
+  <div class="shield" style="height: 115px; background: transparent; opacity: 0.1; display: none;">
+    <div class="shield__circle" style="opacity: 1;">
+      <img src="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/images/download_scan/mcafee_logo_white.svg?secret=hqb0i4" x-mcsrc="" id="dls_ballon_icon" x-mcsrcparsed="true">
+    </div>
+    <div class="dls__popup__expanded" style="opacity: 0;">
+      <img src="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/images/download_scan/download_scan_icon.svg?secret=hqb0i4" x-mcsrc="" class="dls__icon" x-mcsrcparsed="true">
+      <div class="content">
+        <div class="content__images">
+          <img src="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/images/download_scan/mcafee_logo_red.svg?secret=hqb0i4" x-mcsrc="" id="dls_mcafee_logo" x-mcsrcparsed="true">
+          <img src="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/images/download_scan/seperator_line.svg?secret=hqb0i4" x-mcsrc="" class="seperator__line" x-mcsrcparsed="true">
+          <img src="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/images/download_scan/webadvisor.svg?secret=hqb0i4" x-mcsrc="" x-mcsrcparsed="true">
+          <img src="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/images/download_scan/close-outline.svg?secret=hqb0i4" x-mcsrc="" id="dls_close_icon" x-mcsrcparsed="true">
+        </div>
+        <p id="download_scan_popup_expanded_descriptions">A sua transferência está a ser analisada. Vamos a informá-lo se houver algum problema.</p>
+      </div>
+    </div>
+  </div>
+</div><style>/*!
+ * 
+ *     MCAFEE RESTRICTED CONFIDENTIAL
+ *     Copyright (c) 2024 McAfee, LLC
+ *
+ *     The source code contained or described herein and all documents related
+ *     to the source code ("Material") are owned by McAfee or its
+ *     suppliers or licensors. Title to the Material remains with McAfee
+ *     or its suppliers and licensors. The Material contains trade
+ *     secrets and proprietary and confidential information of McAfee or its
+ *     suppliers and licensors. The Material is protected by worldwide copyright
+ *     and trade secret laws and treaty provisions. No part of the Material may
+ *     be used, copied, reproduced, modified, published, uploaded, posted,
+ *     transmitted, distributed, or disclosed in any way without McAfee's prior
+ *     express written permission.
+ *
+ *     No license under any patent, copyright, trade secret or other intellectual
+ *     property right is granted to or conferred upon you by disclosure or
+ *     delivery of the Materials, either expressly, by implication, inducement,
+ *     estoppel or otherwise. Any license under such intellectual property rights
+ *     must be expressed and approved by McAfee in writing.
+ *
+ */
+.mc-interactive-balloon{position:absolute;right:-50px;bottom:8px;box-shadow:rgba(0,0,0,.12) 0px 0px 10px;height:40px;width:40px;background:#1671ee;border-radius:20px;display:flex;justify-content:center;align-items:center}
+
+/*# sourceMappingURL=../sourceMap/chrome/css/interactive_balloon.css.map*/</style></template></div></body></html>
